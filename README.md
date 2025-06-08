@@ -15,7 +15,7 @@ Este repositório contém uma estrutura de dados **Pilha** feita para armazenar 
 - Adicionar recordes no topo da pilha (push)
 - Remover o recorde mais recente (pop)
 - Visualizar o último recorde inserido (peek)
-- Verificar se a pilha está vazia
+- Verificar se a pilha está vazia (isEmpty)
 - Consultar o tamanho da pilha
 
 ---
