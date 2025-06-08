@@ -1,6 +1,6 @@
 # Pilha de Recordes 🏆✨
 
-Olá! Seja muito bem-vinda ao projeto **Pilha de Recordes**, uma implementação simples e prática de uma pilha para gerenciar seus recordes de forma organizada e eficiente.
+Uma implementação simples e prática de uma pilha para gerenciar seus recordes de forma organizada e eficiente.
 
 ---
 
